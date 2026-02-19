@@ -245,7 +245,63 @@
                     </div>
                 </div>
                 
-                <!-- 五行属性 -->
+<!-- 五行属性 -->
                 <div class="glass rounded-2xl p-6 mt-6">
                     <h3 class="text-gold text-center mb-4 ancient-font text-xl">五行能量</h3>
-          
+                    <div class="grid grid-cols-5 gap-2">
+                        <div class="text-center p-2 rounded-lg bg-green-900/30 border border-green-500/30">
+                            <div class="text-2xl mb-1">木</div>
+                            <div id="woodVal" class="text-xs text-green-400">85%</div>
+                            <div class="w-full h-1 bg-green-900/50 rounded mt-1">
+                                <div class="h-full bg-green-500 rounded" style="width: 85%"></div>
+                            </div>
+                        </div>
+                        <div class="text-center p-2 rounded-lg bg-red-900/30 border border-red-500/30">
+                            <div class="text-2xl mb-1">火</div>
+                            <div id="fireVal" class="text-xs text-red-400">60%</div>
+                            <div class="w-full h-1 bg-red-900/50 rounded mt-1">
+                                <div class="h-full bg-red-500 rounded" style="width: 60%"></div>
+                            </div>
+                        </div>
+                        <div class="text-center p-2 rounded-lg bg-yellow-900/30 border border-yellow-500/30">
+                            <div class="text-2xl mb-1">土</div>
+                            <div id="earthVal" class="text-xs text-yellow-400">45%</div>
+                            <div class="w-full h-1 bg-yellow-900/50 rounded mt-1">
+                                <div class="h-full bg-yellow-500 rounded" style="width: 45%"></div>
+                            </div>
+                        </div>   
+    <div class="text-center p-2 rounded-lg bg-gray-700/30 border border-gray-400/30">
+                            <div class="text-2xl mb-1">金</div>
+                            <div id="metalVal" class="text-xs text-gray-300">70%</div>
+                            <div class="w-full h-1 bg-gray-600/50 rounded mt-1">
+                                <div class="h-full bg-gray-400 rounded" style="width: 70%"></div>
+                            </div>
+                        </div>
+                        <div class="text-center p-2 rounded-lg bg-blue-900/30 border border-blue-500/30">
+                            <div class="text-2xl mb-1">水</div>
+                            <div id="waterVal" class="text-xs text-blue-400">55%</div>
+                            <div class="w-full h-1 bg-blue-900/50 rounded mt-1">
+                                <div class="h-full bg-blue-500 rounded" style="width: 55%"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+            
+            <！-- 中间日历区 -->
+            <main class="lg:col-span-6">
+                <!-- 日期选择器 -->
+                <div class="glass rounded-2xl p-6 mb-6 glow-effect">
+                    <div class="flex items-center justify-between mb-6">
+                        <button onclick="changeMonth(-1)" class="p-3 rounded-full bg-gold/10 hover:bg-gold/20 transition-all border border-gold/30 hover:border-gold/50">
+                            <i class="fas fa-chevron-left text-gold"></i>
+                        </button>
+                        <div class="text-center">
+                            <h2 id="currentYear" class="ancient-font text-3xl text-gold">甲辰年</h2>
+                            <p id="currentMonth" class="text-bronze text-lg">腊月</p>
+                        </div>
+                        <button onclick="changeMonth(1)" class="p-3 rounded-full bg-gold/10 hover:bg-gold/20 transition-all border border-gold/30 hover:border-gold/50">
+                            <i class="fas fa-chevron-right text-gold"></i>
+                        </button>
+                    </div>
+                    
