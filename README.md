@@ -1,4 +1,4 @@
-# huangli
+# yellow-calendar
 # 玄机黄历 · 洞察天机
 ![版本](https://img.shields.io/badge/版本-1.0.3-gold)
 ![许可协议](https://img.shields.io/badge/许可协议-MIT-blue)
@@ -87,7 +87,7 @@
 ### 本地运行
 1.  克隆仓库：
     ```bash
-    git clone https://github.com/your-username/xuanji-huangli.git
+    git clone https://github.com/your-username/yellow-calendar.git
     ```
 2.  打开文件：
     直接在浏览器中打开 `index.html` 文件即可运行。
