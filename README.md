@@ -3,6 +3,7 @@
 ![版本](https://img.shields.io/badge/版本-1.0.3-gold)
 ![许可协议](https://img.shields.io/badge/许可协议-MIT-blue)
 ![技术栈](https://img.shields.io/badge/技术栈-HTML5%20%7C%20Tailwind%20CSS%20%7C%20JS-informational)
+
 **玄机黄历**是一个融合了中国传统文化精髓与现代Web技术的单页面应用（SPA）。它以“盘古开天辟地”为入口意象，将老黄历、八字命理、风水罗盘、占卜解梦等传统功能模块化，通过玄幻古风的视觉设计，为用户提供沉浸式的命理查询体验。
 ---
 ## 目录
