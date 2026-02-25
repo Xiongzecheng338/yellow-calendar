@@ -5,7 +5,18 @@
 
 今立此**天机黄历**平台，承上古道法自然之旨，汇历法卦象、风水方位、命理运势、国学经典之精髓，为诸位善信打开一扇窥天机、顺天时、利人事的方便之门。所谓“天机不可尽泄，却可窥其门径”，愿以此平台，助你在红尘俗世中，知进退、明取舍，借天地之力，旺自身气运。
 
+![GitHub stars](https://img.shields.io/github/stars/badhope/Visual-Security?style=social)
+![GitHub forks](https://img.shields.io/github/forks/badhope/Visual-Security?style=social)
+![GitHub issues](https://img.shields.io/github/issues/badhope/Visual-Security)
+![GitHub license](https://img.shields.io/github/license/badhope/Visual-Security)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Neuroscience](https://img.shields.io/badge/Neuroscience-005571?style=flat-square&logo=academia&logoColor=white)
+![Optical Art](https://img.shields.io/badge/Optical_Art-FF6F00?style=flat-square&logo=artstation&logoColor=white)
+
 ---
+
 
 ## 🔮 本平台所藏玄机，尽在此中
 本平台融千年玄学智慧于一体，核心法门尽数收录，助你全方位通晓天时地利人和：
